@@ -2,7 +2,7 @@
 
 O aplicativo original, não funciona mais (O link que ele usa para baixar a imagem do menu original saiu do, e agora leva para um dominio de email... isso faz com que o aplicativo não retorne nada dando erro ao iniciar)
 
-O aplicativo "bytepatched" funciona, depois de remover a verificação do link.
+O aplicativo "bytepatched" funciona, depois de remover a verificação do link (xdbg64).
 
 So substitua o aplicativo original pelo modificado e o problema e resolvido.
 inclui a versão original por comodidade
